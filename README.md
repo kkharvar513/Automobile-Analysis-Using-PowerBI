@@ -1,4 +1,4 @@
-# 🚗 Automobile Sales Dashboard (Power BI)
+# Automobile Sales Dashboard | Power BI
 
 This project is an interactive Power BI dashboard designed to analyze automobile sales performance, market share distribution, and customer insights.
 
